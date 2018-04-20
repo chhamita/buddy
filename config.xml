@@ -24,7 +24,7 @@
     </platform>
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <plugin name="pushbots-cordova-plugin"  />
-    <plugin name="cordova-sqlite-storage"  />
+    <!--plugin name="cordova-sqlite-storage"  /-->
     <plugin name="phonegap-plugin-barcodescanner" >
         <variable name="ANDROID_SUPPORT_V4_VERSION" value="27.+" />
     </plugin>
